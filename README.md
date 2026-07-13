@@ -123,3 +123,6 @@ For full parameter descriptions, see the [Conversion API documentation](https://
 ## Open Source
 
 The **LINE Yahoo Conversion API Tag (Search Ads) for GTM Server-Side** is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🔴 Not listed
