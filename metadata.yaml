@@ -1,0 +1,5 @@
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/line-yahoo-search-ads-tag'
+versions:
+  - sha: 0a4723ab18c64bc04fde7134778a3213cb533c09
+    changeNotes: Initial release.
